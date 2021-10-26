@@ -2,7 +2,7 @@ data
 output
 *.pyc
 *.ipynb_checkpoints
-*.csv
 .DS_Store
 env/
 venv/
+simple_fm.csv
