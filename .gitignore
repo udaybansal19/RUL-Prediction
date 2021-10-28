@@ -5,4 +5,3 @@ output
 .DS_Store
 env/
 venv/
-simple_fm.csv
